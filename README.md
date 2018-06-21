@@ -4,7 +4,7 @@ C++ Library for managing and using vectors
 ### Implementation
 - Add .h to your project
 - Include AlxVec.h in your source code
-- Use avec namespace before every function call or add `using namespace avec;`
+- Use `avec` namespace before every function call or add `using namespace avec;`
 ### Find first in vector:
     avec::ffiv(a, vect)
 `a` is what you're looking for.

@@ -8,12 +8,17 @@ C++ Library for managing and using vectors
 ### Find first in vector:
     avec::ffiv(a, vect)
 `a` is what you're looking for.
+
 `vect` is the vector you're looking in.
+
 ### Find nth in vector:
     avec::ffiv(a, vect, n)
 `a` is what you're looking for.
+
 `vect` is the vector you're looking in.
+
 `n` will return the position of the nth iteration of a.
+
 ## Example code
 ### Find first in vector:
     vector<int> vect{ 1, 2, 3, 4, 6, 3 };

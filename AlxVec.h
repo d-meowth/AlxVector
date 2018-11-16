@@ -2,10 +2,10 @@
 #include <iostream>
 #include <vector>
 
-using namespace std;
-
 namespace avec
 {
+	using std::vector;
+	using std::string;
 	/// Find first in vector
 	template <typename T>
 	int ffiv(T a, vector<T> vect)
